@@ -27,6 +27,7 @@ Rules are open to interpretation. Do not discuss them in chat. See the "Admin Ab
     1. Be sure the person who was "abused" did not violate any of the above rules.
     2. Please remember that almost all bans/kicks are temporary, and strictly used to cut unproductive conversation.
     3. Please also keep in mind that when you see others kicked/banned, there may be a history to their conversation you are unaware of.
+    4. Please be aware that some seemingly innocuous messages have been removed from global chat due to abuse, such as spamming the letter "F" after a crash or lost connection, and these types of messages are handled by the chat bot.
 
     If you still feel that a moderator has been seriously abusive, you can report it by emailing `berserkgames@gmail.com` with the Steam names involved and a rough timeframe of when it occurred. **Do not discuss it in chat, please.**
 
